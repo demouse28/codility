@@ -36,3 +36,11 @@
 | 11.2 | [CountSemiprimes](https://github.com/demouse28/codility/blob/main/Lesson_11.2_CountSemiprimes.ipynb) | **55** | 100 | **20** |
 | 12.1 | [ChocolateByNumbers](https://github.com/demouse28/codility/blob/main/Lesson_12.1_ChocolateByNumbers.ipynb) | 100 | 100 | 100 |
 | 12.2 | [CommonPrimeDivisors](https://github.com/demouse28/codility/blob/main/Lesson_12.2_CommonPrimeDivisors.ipynb) | **30** | **42** | **16** |
+| 13.1 | | | | |
+| 13.2 | | | | |
+| 14.1 | | | | |
+| 14.2 | | | | |
+| 15.1 | [AbsDistinct](https://github.com/demouse28/codility/blob/main/Lesson_15.1_AbsDistinct.ipynb) | 100 | 100 | 100 |
+| 15.2 | [CountDistinctSlices](https://github.com/demouse28/codility/blob/main/Lesson_15.2_CountDistinctSlices.ipynb) | 100 | 100 | 100 |
+| 15.3 | [CountTriangles](https://github.com/demouse28/codility/blob/main/Lesson_15.3_CountTriangles.ipynb) | 100 | 100 | 100 |
+| 15.4 | [MinAbsSumOfTwo](https://github.com/demouse28/codility/blob/main/Lesson_15.4_MinAbsSumOfTwo.ipynb) | 100 | 100 | 100 |
